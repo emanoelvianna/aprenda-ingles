@@ -9,6 +9,10 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre o que você deve es
 * [Quer aperfeiçoar seu Inglês de verdade?](http://luizricardo.org/2013/08/quer-aperfeicoar-seu-ingles-de-verdade/)
 * [Aprenda Inglês de Graça](http://luizricardo.org/2012/10/aprenda-ingles-de-graca/)
 
+## Jornais
+
+* [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/features/witn)
+
 ## Provas
 
 ### Vestibular
