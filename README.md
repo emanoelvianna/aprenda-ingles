@@ -15,10 +15,10 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre o que você deve es
 
 ## Provas
 
-### Vestibular
+#### Vestibular
 
 * [Provas do Vestibular do ITA](http://www.vestibular.ita.br/provas.htm)
 
-### Proficiencia
+#### Proficiencia
 
 * [UFRGS](http://www.ufrgs.br/caplle/provasant.html)
