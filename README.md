@@ -9,6 +9,11 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre o que você deve es
 * [Quer aperfeiçoar seu Inglês de verdade?](http://luizricardo.org/2013/08/quer-aperfeicoar-seu-ingles-de-verdade/)
 * [Aprenda Inglês de Graça](http://luizricardo.org/2012/10/aprenda-ingles-de-graca/)
 
+## Dicionários
+
+* [Dictionary by Merriam-Webster](https://www.merriam-webster.com/)
+* [Dictionary by Cambridge](https://dictionary.cambridge.org/pt/)
+
 ## Videoaula
 
 * [Present Tense of the verb to be](https://www.youtube.com/watch?v=Z19NAX_gWxI)
