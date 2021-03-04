@@ -32,7 +32,7 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre o que você deve es
 
 * [UFRGS](http://www.ufrgs.br/caplle/provasant.html)
 
-## Exercicios
+## Exercícios 
 
 * [Agendaweb](https://agendaweb.org/)
 * [English Room](http://www.english-room.com/)
