@@ -16,7 +16,15 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre o que você deve es
 
 ## Videoaula
 
+### Conteúdos específicos
+
 * [Present Tense of the verb to be](https://www.youtube.com/watch?v=Z19NAX_gWxI)
+
+### Canais de conteúdo
+
+* [English For You](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w)
+* [Cambridge English](https://www.youtube.com/channel/UCnXqRankqlC47qzXcYMazKA)
+* [Kids Can English School](https://www.youtube.com/c/KidsCanEnglishSchool/featured)
 
 ## Jornais
 
