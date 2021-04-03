@@ -22,7 +22,7 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre como você pode est
 
 ### Canais de conteúdo
 
-* [English For You](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w)
+* [English For You](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w) (recomendo muito!)
 * [Cambridge English](https://www.youtube.com/channel/UCnXqRankqlC47qzXcYMazKA)
 * [Kids Can English School](https://www.youtube.com/c/KidsCanEnglishSchool/featured)
 
