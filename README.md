@@ -1,6 +1,6 @@
 # aprenda-ingles
 
-:school_satchel: :rocket: Este repositório tem como objetivo direcionar para várias ferramentas gratuitas ou não para auxiliar no desenvolvimento seu inglês!
+:school_satchel: :rocket: Este repositório tem como objetivo direcionar você para várias ferramentas gratuitas (não somente) para auxiliar no desenvolvimento seu inglês!
 
 ## Introdução
 
