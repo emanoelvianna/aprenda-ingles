@@ -30,6 +30,10 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre como você pode est
 
 * [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/features/witn)
 
+## Livros
+
+* [English in brazil](https://englishinbrazil.com.br/ebook)
+
 ## Cursos
 
 [GCF Aprende livre](https://idiomas.gcfglobal.org/pt/curso/ingles/)
