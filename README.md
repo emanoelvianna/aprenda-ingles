@@ -52,3 +52,4 @@ Os artigos abaixo tem como objetivo trazer uma bagagem sobre como você pode est
 
 * [Agendaweb](https://agendaweb.org/)
 * [English Room](http://www.english-room.com/)
+* [Englisch Hilfen](https://www.englisch-hilfen.de/en/sitemap.htm)
